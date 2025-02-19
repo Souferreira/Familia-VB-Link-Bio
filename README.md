@@ -1,6 +1,5 @@
 Aqui está um exemplo de README.md para o seu repositório:
 
-```markdown
 # Família VB Link Bio
 
 Este repositório contém o projeto "Família VB Link Bio". 
