@@ -1,4 +1,4 @@
-Aqui está um exemplo de README.md para o seu repositório:
+
 
 # Família VB Link Bio
 
