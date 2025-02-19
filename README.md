@@ -12,11 +12,13 @@ Este projeto está atualmente em construção. Ele tem como objetivo criar uma p
 
 - **HTML**
 - **CSS**
+- **Javascript**
 
 ## Estrutura do Projeto
 
 - `index.html`: Página principal do projeto.
 - `style.css`: Estilos para a página HTML.
+- `script.js`: Interação da página.
 ## Como Executar
 
 1. Clone o repositório:
